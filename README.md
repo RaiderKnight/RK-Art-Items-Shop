@@ -2,7 +2,9 @@
 <p>Module for the game LifePlay</p>
 <p>https://github.com/vinfamy/LifePlay</p>
 <br>
-<h3>rk_Art_items_Shop :</h3> 
+<h3>rk_Art_items_Shop :</h3>
+<p>Version: 1.0.1</p>
+<br>
 <p>Add options to buy, sell and trade art items at some places around the city.</p>
 <p>8 types of art items to buy.</p>
 <p>Contain 2 scene, at the moment.</p>
